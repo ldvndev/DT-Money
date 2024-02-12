@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 60,
       "createdAt": "2024-02-11T21:00:19.647Z"
+    },
+    {
+      "id": 2,
+      "description": "Faculdade",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1080,
+      "createdAt": "2024-02-13T21:00:19.647Z"
     }
   ]
 }
